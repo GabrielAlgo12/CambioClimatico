@@ -1,3 +1,5 @@
+Lo que se me ocurrio:
+
 Idea 1: Una generador de memes de consientisacion de cambio climatico
 
 Idea 2: Una IA¿ que cree artículos sobre el cambio climático
