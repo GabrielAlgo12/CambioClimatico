@@ -1,4 +1,4 @@
-  Lo que se me ocurrio:
+##Lo que se me ocurrio:
 
 Idea 1: Una generador de memes de consientisacion de cambio climatico
 
